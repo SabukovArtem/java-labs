@@ -1,0 +1,17 @@
+# Скомпилированные файлы
+*.class
+
+# Папки сборки
+out/
+target/
+
+# Папки IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Логи
+*.log
